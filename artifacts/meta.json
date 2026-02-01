@@ -1,0 +1,23 @@
+{
+  "threshold": 0.5,
+  "target_mapping": {
+    "Not Placed": 0,
+    "Placed": 1
+  },
+  "num_cols": [
+    "ssc_p",
+    "hsc_p",
+    "degree_p",
+    "etest_p",
+    "mba_p"
+  ],
+  "cat_cols": [
+    "gender",
+    "ssc_b",
+    "hsc_b",
+    "hsc_s",
+    "degree_t",
+    "workex",
+    "specialisation"
+  ]
+}
